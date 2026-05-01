@@ -84,6 +84,7 @@ java Client Alice
 ```bash
 java ClientGUI
 ```
+<img width="1093" height="854" alt="image" src="https://github.com/user-attachments/assets/5d113f17-fd72-4532-a604-9d3e870b0e6c" />
 
 ---
 
